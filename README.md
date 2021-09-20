@@ -17,3 +17,7 @@ This is simple configuration of vanila project where it can be used as a templat
 - []: npm run test
 - []: npm run lint
 - []: npm run e2e
+
+## TODO
+
+- []: # Test coverage
