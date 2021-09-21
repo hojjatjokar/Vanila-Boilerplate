@@ -9,7 +9,9 @@
     "dev": "webpack serve --open --config build/webpack.dev.js",
     "build": "webpack --config build/webpack.prod.js",
     "cypress:open": "cypress open",
-    "e2e": "cypress run --record"
+    "e2e": "cypress run --record",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
   },
   "repository": {
     "type": "git",
