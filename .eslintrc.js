@@ -12,5 +12,6 @@ module.exports = {
   rules: {
     'no-var': 'error',
     'no-const-assign': 'error',
+    'no-use-before-define': 'error',
   },
 };
