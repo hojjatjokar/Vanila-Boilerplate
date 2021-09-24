@@ -13,5 +13,6 @@ module.exports = {
     'no-var': 'error',
     'no-const-assign': 'error',
     'no-use-before-define': 'error',
+    'no-eval': 'error',
   },
 };
