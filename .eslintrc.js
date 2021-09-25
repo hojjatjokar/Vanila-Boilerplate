@@ -14,5 +14,6 @@ module.exports = {
     'no-const-assign': 'error',
     'no-use-before-define': 'error',
     'no-eval': 'error',
+    'no-implied-eval': 'error',
   },
 };
